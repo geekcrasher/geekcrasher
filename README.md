@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://app.daily.dev/geekcrasher"><img src="https://api.daily.dev/devcards/853e6af475f64add9b1d2ebd811c2be8.png?r=opy" width="400" alt="Novice Vibe's Dev Card"/></a>
+
 <!--
 **geekcrasher/geekcrasher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
