@@ -10,8 +10,8 @@ Hi 👋 My name is **Paulo Lopez**
 src="https://img.shields.io/github/followers/geekcrasher?logo=github&style=for-the-badge&color=facc15&labelColor=1c1917" /></a>
 
 
-<h2 align="center">Skills</h2>
-<div> 
+<div>
+   <h2 align="center">Skills</h2>
    <p align="center" style="background-color: white; width: max-content; padding: 0.8rem">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -25,9 +25,8 @@ src="https://img.shields.io/github/followers/geekcrasher?logo=github&style=for-t
 </div>
 
 
-
-<h2 align="center">Socials</h2>
 <div>
+   <h2 align="center">Socials</h2>
    <p align="center" style="background-color: white; width: max-content; padding: 0.8rem"> <a href="https://www.github.com/geekcrasher" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.codepen.io/geekcrasher" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://www.dev.to/geekcrasher" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.dribbble.com/geekcrasher" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="32" height="32" /></a> </p>
 </div>
 
@@ -45,5 +44,4 @@ src="https://img.shields.io/github/followers/geekcrasher?logo=github&style=for-t
   
 </div>
 
-<br>
 <br>
