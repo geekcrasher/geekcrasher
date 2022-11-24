@@ -23,3 +23,8 @@ Hi 👋 My name is **Paulo Lopez**
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/geekcrasher" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.codepen.io/geekcrasher" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://www.dev.to/geekcrasher" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.dribbble.com/geekcrasher" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="32" height="32" /></a> </p>
+
+
+### Daily Dev Profile
+
+<a href="https://app.daily.dev/geekcrasher"><img src="https://api.daily.dev/devcards/853e6af475f64add9b1d2ebd811c2be8.png?r=opy" width="400" alt="Novice Vibe's Dev Card"/></a>
