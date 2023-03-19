@@ -33,3 +33,5 @@ src="https://img.shields.io/github/followers/geekcrasher?logo=github&style=for-t
 </div>
 
 <br>
+
+[![Paulo's GitHub stats](https://gh-stats-card.cyclic.app/api/jxmked)](https://github.com/geekcrasher)
